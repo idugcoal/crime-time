@@ -1,0 +1,24 @@
+{
+  "name": "crime-time",
+  "version": "1.0.0",
+  "description": "An interactive visualization of LA Open Crime data",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idugcoal/crime-time.git"
+  },
+  "author": "Doug Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idugcoal/crime-time/issues"
+  },
+  "homepage": "https://github.com/idugcoal/crime-time#readme"
+}
